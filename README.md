@@ -53,7 +53,7 @@ Ejemplo:
   - Proveedores Cloud
   - Serverless
 
-  Sebastián Jiménez
+  Sebastián Jiménez O
 ```
 
 - La información de cada módulo la podemos encontrar acá 👉 [https://boolean.cl/cursos/programming-intro](https://boolean.cl/cursos/programming-intro])
