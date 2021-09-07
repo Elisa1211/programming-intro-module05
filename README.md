@@ -33,6 +33,7 @@ Serás capaz de lanzar sitios web modernos, seguros y escalables, así como tamb
 ## Instrucciones
 1. Presionar Fork en este repositorio para crear una copia de este proyecto con el "namespace" correspondiente al usuario del estudiante
 
+---
 2. Se asignará 1 o 2 archivos para escribir a cada estudiante hasta completar los 8 capítulos. 
 Debemos usar el formato Markdown (¿Dónde aprenderlo? ¡En este mismo archivo!) para escribir el archivo que nos corresponda. 
 En el archivo debemos escribir el titulo del capítulo, una descripción, la lista de los módulos y al final nuestro nombre.
@@ -61,6 +62,19 @@ Ejemplo:
 
 - Una vez listo los capítulos debes subirlos a tu repositorio
 
-2. Ahora iremos a github.com y revisaremos que nuestro código se haya subido sin problemas.
-De forma coordinada y con el profesor iremos presionando el botón "Pull request" y seguiremos las instrucciones, esto es: Apuntar la rama "main" de nuestro repositorio a la rama "main" del repositorio original.
+---
+3. Ahora iremos a github.com y revisaremos que nuestro código se haya subido sin problemas.
+  - Ahora vamos a la sección "Issues" y veremos que hay varias asignadas al profesor. El será el encargado de cerrar todas estas Issues apoyado por el aporte de todos los estudiantes.
 
+  - De forma coordinada y con el profesor iremos presionando el botón "Pull request" y seguiremos las instrucciones, esto es: Apuntar la rama "main" de nuestro repositorio a la rama "main" del repositorio original, escribir un texto de descripción del pull request que diga lo siguiente:
+  ```
+    resolves #<numero de issue>, resolves #<numero de issue>
+  ```
+  Donde es SUPER IMPORTANTE que reemplacemos el "<numero de issue>" por el número correspondiente al capítulo(s) que se agregan.
+
+  - Una vez el pull request esté lanzado, será el profesor quien elegirá aprobarlo luego de hacer un analisis de comparación.
+  - Una aprobado y mezclado el código. Veremos como este es agregado al repositorio original.
+
+  - Ahora repetiremos el proceso para el siguiente estudiante pero antes revisaremos el botón "fetch upstream" que debería avisarnos que se hicieron cambios en el repositorio original luego de que el Pull request del estudiante anterior fuera mezclado.
+
+  ¡Éxito!
