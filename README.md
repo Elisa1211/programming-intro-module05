@@ -77,4 +77,7 @@ Ejemplo:
 
   - Ahora repetiremos el proceso para el siguiente estudiante pero antes revisaremos el botón "fetch upstream" que debería avisarnos que se hicieron cambios en el repositorio original luego de que el Pull request del estudiante anterior fuera mezclado.
 
+   <img src="https://res.cloudinary.com/boolean-spa/image/upload/v1631046834/programming-intro/fetch-upstream_ilctfk.png">
+
+---
   ¡Éxito!
